@@ -1,0 +1,27 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+body{
+    margin-top: 0px;
+    width: 100%;
+    height: 100vh;
+    background-image: linear-gradient(rgb(237, 12, 12),rgb(247, 212, 15));
+   
+}
+.en{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin-top: 15%;
+    padding: 15px;
+    margin: 20%;
+    width: 400px;
+    border: 5px solid rgb(228, 215, 181);
+    box-shadow: 10px 10px 5px lightblue;
+    font-size: bold;
+    color:white;
+    font-weight: 700;
+   
+}
